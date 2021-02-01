@@ -1,0 +1,19 @@
+{
+  "name": "power-functions",
+  "version": "1.0.0",
+  "description": "Various functions for oppressive games POWER",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./init/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taydeo/power-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taydeo/power-functions/issues"
+  },
+  "homepage": "https://github.com/taydeo/power-functions#readme"
+}
